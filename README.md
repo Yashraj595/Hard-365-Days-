@@ -1,4 +1,4 @@
-# Hard-365-Days-  Daily tracking hours of study and Wastage of time 
+# Hard-365-Days-  Daily tracking of hours study atleast 8 Hours+/Day || Don't use phone except mail . 
 <br>
 Daily Counting of Hours and Tasks what i do .
 <br>
