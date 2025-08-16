@@ -1,2 +1,6 @@
 # Hard-365-Days-
-This is a self Tracking
+<br>
+Daily Counting of Hours and Tasks what i do .
+<br>
+Day 1 -> 17-08-2025 
+
