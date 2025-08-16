@@ -1,4 +1,4 @@
-# Hard-365-Days-
+# Hard-365-Days-  Daily tracking hours of study and Wastage of time 
 <br>
 Daily Counting of Hours and Tasks what i do .
 <br>
