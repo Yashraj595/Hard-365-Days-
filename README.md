@@ -1,6 +1,13 @@
-# Hard-365-Days-  Daily tracking of hours study atleast 8 Hours+/Day || Don't use phone . 
+# Hard-365-Days-  Daily 8 Hours+/Day || Keep Patience || Keep Believe in Yourself. 
 <br>
-Daily Counting of Hours and Tasks what i do .
+# It is not over until I win .
 <br>
-Day 1 -> 21-08-2025 
+||  Tasks ->  DSA || Aptitude || Core Subject ||  Test ||
+<br>
+Daily Counting of Hours and Tasks, what i do .
+<br>
+Day 1 -> 21-08-2025   
+Output -> 
+<br>
+
 
