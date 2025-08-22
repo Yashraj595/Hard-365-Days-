@@ -9,7 +9,7 @@ Daily Counting of Hours and Tasks, what i do .
 Day 1 -> 21-08-2025  ||  Output -> 1 Hour
 <br>
 <br>
-Day 2 -> 22-08-2025  ||  Output ->  Hour
+Day 2 -> 22-08-2025  ||  Output -> 9 Hours 
 <br>
 
 
