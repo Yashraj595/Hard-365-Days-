@@ -12,7 +12,7 @@ Day 1 -> 21-08-2025  ||  Output -> 1.30  Hours
 Day 2 -> 22-08-2025  ||  Output -> 8.59  Hours 
 <br>
 <br>
-Day 2 -> 23-08-2025  ||  Output -> 8.22  Hours 
+Day 3 -> 23-08-2025  ||  Output -> 8.22  Hours 
 <br>
 
 
