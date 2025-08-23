@@ -6,10 +6,13 @@
 <br>
 Daily Counting of Hours and Tasks, what i do .
 <br>
-Day 1 -> 21-08-2025  ||  Output -> 1 Hour
+Day 1 -> 21-08-2025  ||  Output -> 1.30  Hours
 <br>
 <br>
-Day 2 -> 22-08-2025  ||  Output -> 9 Hours 
+Day 2 -> 22-08-2025  ||  Output -> 8.59  Hours 
+<br>
+<br>
+Day 2 -> 23-08-2025  ||  Output -> 8.22  Hours 
 <br>
 
 
