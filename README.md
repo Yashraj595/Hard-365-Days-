@@ -15,7 +15,9 @@ Day 2 -> 22-08-2025  ||  Output -> 8.59  Hours
 Day 3 -> 23-08-2025  ||  Output -> 8.22  Hours 
 <br>
 <br>
-Day 4 -> 24-08-2025  ||  Output ->       Hours 
+Day 4 -> 24-08-2025  ||  Output -> 7.52 Hours  + 1.30 Hour acadmic work = 9.30 Hours 
 <br>
-
+<br>
+Day 5 -> 25-08-2025  ||  Output -> ? Hours 
+<br>
 
