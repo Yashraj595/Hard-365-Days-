@@ -1,4 +1,4 @@
-# Hard-365-Days-  Daily 8 Hours+/Day || Keep Patience || Keep Believe in Yourself || Work Hard Success will be your || Nobuddy clap until everybuddy clap ||
+# Hard-365-Days-  Daily 8 Hours+/Day || Keep Patience || Keep Believe in Yourself || Work Hard Success will be your || Nobody claps until everybody claps ||
 <br>
 # It is not over until I win .
 <br>
