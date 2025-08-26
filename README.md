@@ -24,6 +24,6 @@ Day 5 -> 25-08-2025  ||  Output -> 9.30 Hours
 Day 6 -> 26-08-2025  ||  Output -> 9 Hours 
 <br>
 <br>
-Day 7 -> 27-08-2025  ||  Output -> 9 Hours 
+Day 7 -> 27-08-2025  ||  Output -> ? Hours 
 <br>
 
