@@ -27,6 +27,9 @@ Day 6 -> 26-08-2025  ||  Output -> 9    Hours
 Day 7 -> 27-08-2025  ||  Output -> 8.30 Hours 
 <br>
 <br>
-Day 8 -> 28-08-2025  ||  Output -> ?    Hours 
+Day 8 -> 28-08-2025  ||  Output -> 5    Hours 
+<br>
+<br>
+Day 9 -> 29-08-2025  ||  Output -> ?   Hours 
 <br>
 
