@@ -42,6 +42,9 @@ Day 11 -> 31-08-2025  ||  Output -> 5  Hours
 <br>
 Harder Restart  with Strong MindSet
 <br>
-Day 12 -> 01-09-2025  ||  Output ->  Hours 
+Day 12 -> 01-09-2025  ||  Output -> 6  Hours 
+<br>
+<br>
+Day 13 -> 01-09-2025  ||  Output -> 4  Hours 
 <br>
 
