@@ -45,6 +45,22 @@ Harder Restart  with Strong MindSet
 Day 12 -> 01-09-2025  ||  Output -> 6  Hours 
 <br>
 <br>
-Day 13 -> 01-09-2025  ||  Output -> 4  Hours 
+Day 13 -> 02-09-2025  ||  Output -> 4  Hours 
+<br>
+
+<br>
+Day 14 -> 03-09-2025  ||  Output -> 4  Hours 
+<br>
+
+<br>
+Day 15 -> 04-09-2025  ||  Output -> 4  Hours 
+<br>
+ Bolder Impact
+<br>
+Day 16 -> 05-09-2025  ||  Output -> 4  Hours 
+<br>
+
+<br>
+Day 17 -> 06-09-2025  ||  Output -> 4  Hours 
 <br>
 
